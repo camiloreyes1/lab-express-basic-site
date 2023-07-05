@@ -1,0 +1,17 @@
+
+body {
+background-image: url('../wallpaper.jpg');
+text-align: center;
+font-size: 1.3rem;
+color: rgba(0, 0, 255, 0.788);
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+}
+
+button {
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin: 25px;
+    border-radius: 3px;
+}
